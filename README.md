@@ -1,20 +1,83 @@
-## GEO-Pins
+## SkyView
 
-Mark location on google maps. The app is built using React hooks.
+- Live Link - [Live Website](https://youthful-williams-e2da2e.netlify.app)
 
-[![Geo Pins](https://github.com/PJijin/GEO-Pins/blob/master/preview.gif?raw=true 'Geo Pins')]()
+![](img/airline.png)
+![](img/airplane.png)
+![](img/airplane2.png)
 
-# Usage
 
-1. Clone the Repo
-2. Run `npm install`
-3. Create .env file with Google maps API. You can obtain keys from https://developers.google.com/maps/documentation/javascript/get-api-key
-4. Run `npm start`
+---
 
-# 🤝 Contributing
+### Table of Contents
+<!-- You're sections headers will be used to reference location of destination. -->
 
-Contributions, issues and feature requests are welcome!
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [References](#references)
+- [License](#license)
+- [Author Info](#author-info)
 
-# Show your support
+---
 
-Give a ⭐️ if this project helped you!
+## Description
+
+A webpage that engages in trickling down flight routes across the globe and a variety of airlines 
+
+
+#### Technologies
+
+- React.js
+- HTML
+- CSS
+- Inner Database
+
+[Back To The Top](#read-me-template)
+
+---
+
+## How To Use
+
+#### Installation
+
+1. npm i
+
+
+2. npm start
+
+
+
+## License
+
+MIT License
+
+Copyright (c) [2021] [Mustafa Ali Aowd Mustafa]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+---
+
+## Author Info
+
+- Twitter - [@StaffFromAfrica](https://twitter.com/StaffFromAfrica)
+- Website - [Mustafa Mustafa](https://mumustafam.com)
+- Linkedin - [Mustafa Mustafa](https://www.linkedin.com/in/mustafa-inc/)
+
+
