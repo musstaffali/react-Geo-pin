@@ -11,7 +11,7 @@ export default function Map({ options, onMount }) {
 		if (!window.google) {
 			const script = document.createElement(`script`);
 			script.type = `text/javascript`;
-			script.src = `https://maps.google.com/maps/api/js?key=` + process.env.REACT_APP_GOOGLE_MAPS_API;
+			script.src = `https://maps.google.com/maps/api/js?key=AIzaSyCzMBHp_6AN5KoeI88Y_M-Zz-BxZHQxNVs`;
 			const headScript = document.getElementsByTagName(`script`)[0];
 			headScript.parentNode.insertBefore(script, headScript);
 			script.addEventListener(`load`, onLoad);
