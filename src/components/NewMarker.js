@@ -16,8 +16,8 @@ export default function NewMarker({ markLocations, setMarkLocation, latRef, lonR
 					const newEntry = {
 						coords: { lat: parseFloat(e.target.lat.value), lng: parseFloat(e.target.lon.value) },
 						title: e.target.title.value,
-						desc: e.target.description.value,
 						num: e.target.number.value,
+						add: e.target.address.value,
 						img: e.target.image.value
 					};
 
