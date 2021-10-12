@@ -27,6 +27,7 @@ export default function App() {
 				<div id="bodyContent">
 				<p><img src=${link.img} width="300px" /></p>
 				<p>${link.desc}</p>
+				<p>${link.numb}</p>
 				</div>
 				</div>`;
 

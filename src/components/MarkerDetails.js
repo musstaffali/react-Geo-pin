@@ -33,6 +33,7 @@ export default function MarkerDetails({ markLocations, setmarkLocations }) {
 										<DeleteIcon />
 									</IconButton>
 									{data.desc}
+									{data.numb}
 								</p>
 							</div>
 						</div>
