@@ -19,6 +19,7 @@ export default function NewMarker({ markLocations, setMarkLocation, latRef, lonR
 						desc: e.target.description.value,
 						numb: e.target.number.value,
 						mail: e.target.email.value,
+						web: e.target.website.value,
 						img: e.target.image.value
 					};
 
@@ -34,6 +35,7 @@ export default function NewMarker({ markLocations, setMarkLocation, latRef, lonR
 				<input type="text" name="description" autoComplete="off" placeholder="Description" />
 				<input type="text" name="number" autoComplete="off" placeholder="Number" />
 				<input type="text" name="email" autoComplete="off" placeholder="Email" />
+				<input type="text" name="website" autoComplete="off" placeholder="Website" />
 				<input type="text" ref={latRef} name="lat" placeholder="Latitude" required />
 				<input type="text" ref={lonRef} name="lon" placeholder="Longitude" required />
 				<Button variant="contained" type="submit" color="primary">

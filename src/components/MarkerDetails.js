@@ -37,6 +37,8 @@ export default function MarkerDetails({ markLocations, setmarkLocations }) {
 									{data.numb}
 									<p>  </p>
 									{data.mail}
+									<p> </p>
+									{data.web} 
 								</p>
 							</div>
 						</div>

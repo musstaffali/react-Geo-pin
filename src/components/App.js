@@ -29,6 +29,7 @@ export default function App() {
 				<p>${link.desc}</p>
 				<p>${link.numb}</p>
 				<p>${link.mail}</p>
+				<p>${link.web}</p>
 				</div>
 				</div>`;
 
