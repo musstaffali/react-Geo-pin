@@ -33,7 +33,9 @@ export default function MarkerDetails({ markLocations, setmarkLocations }) {
 										<DeleteIcon />
 									</IconButton>
 									{data.desc}
+									<p>  </p>
 									{data.numb}
+									<p>  </p>
 									{data.mail}
 								</p>
 							</div>
