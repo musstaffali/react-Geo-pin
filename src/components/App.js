@@ -58,7 +58,7 @@ export default function App() {
 
 	const mapProps = {
 		options: {
-			center: { lat: 10.8390254, lng: 76.346312 },
+			center: { lat: 36.073659, lng: -79.790234 },
 			zoom: 14
 		},
 		onMount: addMarkers(markLocations)

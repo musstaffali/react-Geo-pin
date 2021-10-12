@@ -24,7 +24,7 @@ export default function Map({ options, onMount }) {
 
 Map.defaultProps = {
 	options: {
-		center: { lat: 10.8390254, lng: 76.346312 },
+		center: { lat: 36.0726, lng: 79.7920 },
 		zoom: 5
 	}
 };
