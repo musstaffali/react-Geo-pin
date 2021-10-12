@@ -22,7 +22,7 @@
 
 ## Description
 
-A webpage that engages in trickling down flight routes across the globe and a variety of airlines 
+
 
 
 #### Technologies
