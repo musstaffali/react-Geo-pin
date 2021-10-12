@@ -34,6 +34,7 @@ export default function MarkerDetails({ markLocations, setmarkLocations }) {
 									</IconButton>
 									{data.desc}
 									{data.numb}
+									{data.mail}
 								</p>
 							</div>
 						</div>
