@@ -1,6 +1,6 @@
 ## SkyView
 
-- Live Link - [Live Website](https://youthful-williams-e2da2e.netlify.app)
+- Live Link - [Live Website](https://6163799931ee6cba7e1c77f0--boring-yonath-89c31e.netlify.app)
 
 ![](img/airline.png)
 ![](img/airplane.png)
@@ -30,7 +30,6 @@ A webpage that engages in trickling down flight routes across the globe and a va
 - React.js
 - HTML
 - CSS
-- Inner Database
 
 [Back To The Top](#read-me-template)
 
