@@ -1,6 +1,6 @@
 ## SkyView
 
-- Live Link - [Live Website](https://6163799931ee6cba7e1c77f0--boring-yonath-89c31e.netlify.app)
+- Live Link - [Live Website](https://boring-yonath-89c31e.netlify.app)
 
 ![](img/homepage.png)
 ![](img/list.png)
