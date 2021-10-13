@@ -6,7 +6,7 @@ export default function NewMarker({ markLocations, setMarkLocation, latRef, lonR
 	return (
 		<>
 			<h4>
-				<AddLocationIcon /> New Location
+				<AddLocationIcon /> Add new Garden
 			</h4>
 			<form
 				id="newMarker"
@@ -30,7 +30,7 @@ export default function NewMarker({ markLocations, setMarkLocation, latRef, lonR
 					document.getElementById('newMarker').reset();
 				}}
 			>
-				<input type="text" name="title" autoComplete="off" placeholder="Title" required />
+				<input type="text" name="title" autoComplete="off" placeholder="New Garden" required />
 				<input type="text" name="image" autoComplete="off" placeholder="Image" />
 				<input type="text" name="description" autoComplete="off" placeholder="Address" />
 				<input type="text" name="number" autoComplete="off" placeholder="Number" />
