@@ -32,7 +32,7 @@ export default function NewMarker({ markLocations, setMarkLocation, latRef, lonR
 			>
 				<input type="text" name="title" autoComplete="off" placeholder="Title" required />
 				<input type="text" name="image" autoComplete="off" placeholder="Image" />
-				<input type="text" name="description" autoComplete="off" placeholder="Description" />
+				<input type="text" name="description" autoComplete="off" placeholder="Address" />
 				<input type="text" name="number" autoComplete="off" placeholder="Number" />
 				<input type="text" name="email" autoComplete="off" placeholder="Email" />
 				<input type="text" name="website" autoComplete="off" placeholder="Website" />
